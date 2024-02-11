@@ -10,9 +10,6 @@
 body {
   font-family: "Poppins", sans-serif;
 }
-h3{
-margin-top:0px;}
-
 .context {
   width: 100%;
   position: absolute;
@@ -568,7 +565,7 @@ footer p {
   text-align: center;
 }
 h3 {
-  margin-top: -22px;
+  margin-top: 0px;
   margin-bottom: 30px 
 }
 @media screen and (max-width: 1400px) {
